@@ -27,8 +27,8 @@ const particlesOptions = {
 }
 
 class App extends React.Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = {
       input: '',
       imageUrl: '',
