@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Release URL: https://facephilia.herokuapp.com/
+Release URL:
+* https://facephilia.herokuapp.com/
+* https://chuapingchan.github.io/facephilia/
 
 ## Available Scripts
 
