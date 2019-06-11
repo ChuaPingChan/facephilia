@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/facephilia/static/css/main.77f6329e.chunk.css",
+    "main.js": "/facephilia/static/js/main.fcaae9bf.chunk.js",
+    "main.js.map": "/facephilia/static/js/main.fcaae9bf.chunk.js.map",
+    "runtime~main.js": "/facephilia/static/js/runtime~main.d86f32bd.js",
+    "runtime~main.js.map": "/facephilia/static/js/runtime~main.d86f32bd.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/facephilia/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.7ca30bdf.chunk.js": "/facephilia/static/js/2.7ca30bdf.chunk.js",
+    "static/js/2.7ca30bdf.chunk.js.map": "/facephilia/static/js/2.7ca30bdf.chunk.js.map",
+    "index.html": "/facephilia/index.html",
+    "precache-manifest.04d98a1215e315603b3e15e77eef0e4e.js": "/facephilia/precache-manifest.04d98a1215e315603b3e15e77eef0e4e.js",
+    "service-worker.js": "/facephilia/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/facephilia/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.77f6329e.chunk.css.map": "/facephilia/static/css/main.77f6329e.chunk.css.map"
+  }
+}
